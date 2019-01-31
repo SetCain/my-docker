@@ -1,3 +1,4 @@
-Cuando levantamos la app, nos da un error el server de werkzeug, diciendo que no encuentra redis.
+Cuando levantamos la app, nos da un error el server de werkzeug, diciendo que
+no encuentra redis.
 Para solucionarlo agregamos docker-compose para conectar los microservicios.
 Ir a flask-app-compose

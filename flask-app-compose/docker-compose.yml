@@ -10,4 +10,3 @@ services:
             - redis
         ports:
             - "8080:5000"
-
